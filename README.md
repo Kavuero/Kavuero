@@ -1,3 +1,3 @@
-👋 Hi, I’m @Kavuero - Bartlomiej Stokowiec
-👀 I’m interested in programming
-🌱 I’m currently learning everything :D
+👋 Hi, I’m @Kavuero - Bartlomiej Stokowiec <br />
+👀 I’m interested in programming <br />
+🌱 I’m currently learning everything :D <br />
